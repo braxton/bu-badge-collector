@@ -1,0 +1,6 @@
+chromedriver
+venv/
+.env
+*.log
+*.png
+.idea/
